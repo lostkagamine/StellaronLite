@@ -47,6 +47,8 @@ public class ModuleManager
             Enable = true,
             Object = (IModule)obj!
         };
+        
+        info.Object.OnEnable();
 
         Module = info;
     }

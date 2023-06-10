@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="Forgetful, forgetful Stelle." />
+    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="Update csproj metadata" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1686309694214" duration="207000" />
       <workItem from="1686310341520" duration="1372000" />
       <workItem from="1686346488036" duration="8552000" />
-      <workItem from="1686436875079" duration="2676000" />
+      <workItem from="1686436875079" duration="2864000" />
     </task>
     <task id="LOCAL-00001" summary="Stellaron! Basic boilerplate.">
       <created>1685658184906</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686439228573</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update csproj metadata">
+      <created>1686439657707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686439657707</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +132,7 @@
     <MESSAGE value="Initial commit." />
     <MESSAGE value="I accidentally committed binaries. Oopsie." />
     <MESSAGE value="Forgetful, forgetful Stelle." />
-    <option name="LAST_COMMIT_MESSAGE" value="Forgetful, forgetful Stelle." />
+    <MESSAGE value="Update csproj metadata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update csproj metadata" />
   </component>
 </project>

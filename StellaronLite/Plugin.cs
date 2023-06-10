@@ -53,6 +53,7 @@ namespace StellaronLite
         {
             this.WindowSystem.RemoveAllWindows();
             
+            ModuleManager.Module.Object.OnDisable();
             MainWindow.Dispose();
             AudioHelper.Teardown();
             
