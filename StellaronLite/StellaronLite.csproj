@@ -21,14 +21,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="..\Data\qsound.wav">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <Visible>false</Visible>
-    </Content>
-    <Content Include="..\Data\amogus.wav">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <Visible>false</Visible>
-    </Content>
   </ItemGroup>
 
   <PropertyGroup>
