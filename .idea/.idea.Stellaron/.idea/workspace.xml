@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="amogus">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Stellaron/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StellaronLite/Constants.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StellaronLite/Impl/NothingModule.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StellaronLite/StellaronLite.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="Initial commit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +66,7 @@
       <workItem from="1686309694214" duration="207000" />
       <workItem from="1686310341520" duration="1372000" />
       <workItem from="1686346488036" duration="8552000" />
-      <workItem from="1686436875079" duration="1970000" />
+      <workItem from="1686436875079" duration="2277000" />
     </task>
     <task id="LOCAL-00001" summary="Stellaron! Basic boilerplate.">
       <created>1685658184906</created>
@@ -97,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686353938631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit.">
+      <created>1686439016186</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686439016186</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +108,7 @@
     <MESSAGE value="Stellaron! Basic boilerplate." />
     <MESSAGE value="SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND&#10;&#10;SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND" />
     <MESSAGE value="amogus" />
-    <option name="LAST_COMMIT_MESSAGE" value="amogus" />
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
 </project>
