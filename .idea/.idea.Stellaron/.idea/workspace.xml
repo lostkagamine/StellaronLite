@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="Initial commit." />
+    <list default="true" id="6887f58d-cba6-4744-8314-6fea338cc3f6" name="Changes" comment="Forgetful, forgetful Stelle." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1686309694214" duration="207000" />
       <workItem from="1686310341520" duration="1372000" />
       <workItem from="1686346488036" duration="8552000" />
-      <workItem from="1686436875079" duration="2277000" />
+      <workItem from="1686436875079" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="Stellaron! Basic boilerplate.">
       <created>1685658184906</created>
@@ -96,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686439016186</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I accidentally committed binaries. Oopsie.">
+      <created>1686439193112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686439193112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Forgetful, forgetful Stelle.">
+      <created>1686439228573</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686439228573</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,8 @@
     <MESSAGE value="SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND&#10;&#10;SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND SOUND" />
     <MESSAGE value="amogus" />
     <MESSAGE value="Initial commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
+    <MESSAGE value="I accidentally committed binaries. Oopsie." />
+    <MESSAGE value="Forgetful, forgetful Stelle." />
+    <option name="LAST_COMMIT_MESSAGE" value="Forgetful, forgetful Stelle." />
   </component>
 </project>
